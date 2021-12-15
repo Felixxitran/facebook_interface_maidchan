@@ -1,0 +1,2 @@
+http server can run in any port 
+to get the webserver must use the built in function do_GET(self):
